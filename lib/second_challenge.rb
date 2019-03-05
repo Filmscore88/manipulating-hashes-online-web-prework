@@ -7,7 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-groceries.each do |k,v| v
-end
+groceries.values
+
 
 end
